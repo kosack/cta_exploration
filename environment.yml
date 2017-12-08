@@ -1,6 +1,6 @@
 name: notebook_environment
-channels:
-  - conda-forge
+# channels:
+#  - conda-forge
 dependencies:
   - python
   - numpy
